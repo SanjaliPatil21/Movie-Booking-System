@@ -1,0 +1,14 @@
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.exe.config
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.exe
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.pdb
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.csproj.AssemblyReference.cache
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.csproj.CoreCompileInputs.cache
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.exe
+C:\Sanjali Patil\NetCorePractice\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.pdb
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.exe.config
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.exe
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\bin\Debug\MovieBookingSys.pdb
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.csproj.AssemblyReference.cache
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.csproj.CoreCompileInputs.cache
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.exe
+C:\Sanjali Patil\MyProjects\MovieBookingSys\MovieBookingSys\obj\Debug\MovieBookingSys.pdb
